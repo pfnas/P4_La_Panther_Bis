@@ -908,6 +908,11 @@ h4 {
         padding-left: 10px!important;
         padding-right: 10px!important;
     }
+    
+        .bloc-mob-center-text {
+            text-align: center;
+        }
+    
     /* .b-parallax {
         background-attachment: scroll;
     } */
@@ -1038,8 +1043,3 @@ h4 {
     }
 }
 
-@media (max-width: 767px) {
-    .bloc-mob-center-text {
-        text-align: center;
-    }
-}
