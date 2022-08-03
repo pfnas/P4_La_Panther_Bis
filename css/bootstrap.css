@@ -2096,11 +2096,11 @@ align-items: center;}
 }
 
 .col-xs-8 {
-    width: 66
+    width: 66%
 }
 
 .col-xs-7 {
-    width: 58
+    width: 58%
 }
 
 .col-xs-6 {
@@ -4355,7 +4355,7 @@ tbody.collapse.in {
     cursor: not-allowed;
     background-color: transparent;
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false)
+    /* filter: progid:DXImageTransform.Microsoft.gradient(enabled=false) */
 }
 
 .open>.dropdown-menu {
