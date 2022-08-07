@@ -6182,7 +6182,8 @@ a.thumbnail:hover {
 
 .progress-bar.active,
 .progress.active .progress-bar {
-    animation: progress-bar-stripes 2s linear infinite
+    animation: progress-bar-stripes 2s linear 3s infinite;
+    -webkit-animation: progress-bar-stripes 2s linear 3s infinite;
 }
 
 .progress-bar-success {
