@@ -776,6 +776,9 @@ h1 {
 .tc-white { 
     background: rgba(172,80,38,.5);
     color: #fff;
+    width: 60%;
+    margin: 0 auto;
+    padding: 25px;
 }
 
 .btn-atomic-tangerine {
