@@ -6,8 +6,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
-a,
+a
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
@@ -826,6 +825,7 @@ h1 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation_resultat.webp");
+    
 }
 
 @media (max-width: 1024px) {
