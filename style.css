@@ -6,6 +6,8 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+a:focus, h1:focus, h2:focus, h3:focus, img:focus
+{outline-color: #ac5026;}
 a
 button {
     transition: all .3s ease-in-out;
